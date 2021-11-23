@@ -1,0 +1,3 @@
+﻿  Renamer.cpp
+c:\renamer\renamer\renamer.cpp(380): warning C4018: '<': signed/unsigned mismatch
+  Renamer.vcxproj -> C:\Renamer\Debug\Renamer.exe

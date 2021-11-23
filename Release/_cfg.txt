@@ -1,0 +1,12 @@
+# 1 - searches in sub-folders, 0 searches in same folder
+search_in_folders=1
+# 1- clears all graphic diagrams
+diagram_clear=0
+# 1- when searching data to change changes lines that have cb-alg or cb-sheet (used for control sheets)
+filter_cb_alg=1
+# 1- when searching data to change changes lines that have quotes “ or backslash \ (used for graphics)
+filter_slash_quotes=0
+# 1- applies modification only for full point name
+full_name=1
+# file extension for filtering
+extensions=.svg
